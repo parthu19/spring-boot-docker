@@ -8,6 +8,6 @@ public class MyController {
 
     @GetMapping("/test-docker")
     public String getData(){
-        return "in docker tutorial project of play java";
+        return "in docker tutorial project of play java   parhtkl...";
     }
 }
